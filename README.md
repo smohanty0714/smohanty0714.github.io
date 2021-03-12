@@ -4,8 +4,7 @@
 
 
 
-## 🛠 Tecnologias utilizadas
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+## 🛠 Tecnologies:
 - Visual Studio Code (Editor de código);
 - HTML5;
 - CSS3;
