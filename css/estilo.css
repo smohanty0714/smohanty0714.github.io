@@ -294,7 +294,7 @@ header .mainMenu .closeMenu, .icons i {
 
 
 #apresentacaoPortfolio #apresentacaoFoto #fundo {
-    width: 100%;
+    /*width: 100%;*/
     max-width: 950px;
     position: absolute;
     top: 85px;
